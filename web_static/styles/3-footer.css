@@ -3,10 +3,9 @@ footer {
 	justify-content: center;
 	align-items: center;
 	width: 100%;
-	position: absolute;
+	position: fixed;
 	bottom: 0;
 	height: 60px;
-	background: #00FF00;
-	color: white;
-	border-bottom: 1px solid #CCCCCC;
+	background: white;
+	border-top: 1px solid #CCCCCC;
 }
