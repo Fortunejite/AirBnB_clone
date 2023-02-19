@@ -8,7 +8,7 @@
 	align-items: center;
 }
 
-section.filter  button {
+section.filter button {
 	font-size: 18px;
 	background: #FF5A5F;
 	color: #FFFFFF;
@@ -35,13 +35,13 @@ section.filters button:hover {
 	border-right: 1px solid #DDDDDD;
 }
 
-.location h3,
+.locations h3,
 .amenities h3 {
 	font-weight: 600;
 	margin: 12px 0 5px 0;
 }
 
-.location h4,
+.locations h4,
 .amenities h4 {
 	font-weight: 400;
 	font-size: 14px;
